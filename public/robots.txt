@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /staf-yonpomad-source.zip
+Sitemap: https://yonpomad-staf-portal.yonpomadpuspomad34.chatgpt.site/sitemap.xml
